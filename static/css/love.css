@@ -1,0 +1,23 @@
+.update{ width:100%; background:#ffffff; }
+.update-wrapper{ width:1200px; margin:auto; padding-top:50px; padding-bottom:50px;}
+
+.cssPadbody
+		{
+			color:#555555;
+			font-size:14px;
+			background-color:white;
+			padding:20px;
+			border-bottom:1px solid #dddddd;
+			border-radius:4px;
+
+
+		}
+
+.demo2-bg{
+    background: url(/static/img/325633.jpg);
+
+
+}
+.demo{
+background-color:rgba(0,0,0,0.3);
+}
